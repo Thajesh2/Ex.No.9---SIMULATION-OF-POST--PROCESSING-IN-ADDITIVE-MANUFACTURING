@@ -51,8 +51,8 @@
 ![Screenshot 2023-11-29 131557](https://github.com/23002248/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/151701774/0bd86f62-7465-49ba-8abf-73fdf771f03a)
 
 
-### Name: stephen raj.y
-### Register Number:23002248
+### Name: Thajesh k
+### Register Number:23004042
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
